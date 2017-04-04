@@ -1,0 +1,27 @@
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.exe
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.exe
+c:\users\administrador\documents\visual studio 2015\Projects\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.pdb
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.exe.config
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.exe
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.pdb
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.csprojResolveAssemblyReference.cache
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.Form1.resources
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.Properties.Resources.resources
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.csproj.GenerateResource.Cache
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.exe
+C:\Users\monta\Downloads\CalculadoraConClases\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.pdb
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.exe.config
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.exe
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\bin\Debug\CalculadoraConClases.pdb
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.csprojResolveAssemblyReference.cache
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.Form1.resources
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.Properties.Resources.resources
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.csproj.GenerateResource.Cache
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.exe
+C:\Users\monta\Downloads\prog pendientes\CalculadoraConClases\CalculadoraConClases\obj\Debug\CalculadoraConClases.pdb
